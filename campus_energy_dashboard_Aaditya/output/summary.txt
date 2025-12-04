@@ -1,0 +1,17 @@
+CAMPUS ENERGY SUMMARY
+=====================
+
+Total usage: 10893 kWh
+
+Per Building:
+building
+building_A    3594
+building_B    3588
+building_C    3711
+Name: kwh, dtype: int64
+
+Per Type:
+type
+Classroom       4043
+Computer Lab    6850
+Name: kwh, dtype: int64

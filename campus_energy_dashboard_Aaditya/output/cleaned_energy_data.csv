@@ -1,0 +1,52 @@
+class,type,kwh,building
+A101,Classroom,120,building_A
+A102,Classroom,135,building_A
+A103,Classroom,128,building_A
+A104,Classroom,140,building_A
+A105,Classroom,150,building_A
+A106,Classroom,145,building_A
+A107,Classroom,130,building_A
+A108,Classroom,138,building_A
+A109,Classroom,142,building_A
+A110,Classroom,136,building_A
+A111,Computer Lab,300,building_A
+A112,Computer Lab,320,building_A
+A113,Computer Lab,310,building_A
+A114,Computer Lab,305,building_A
+A115,Computer Lab,330,building_A
+A116,Computer Lab,340,building_A
+A117,Computer Lab,325,building_A
+B101,Classroom,115,building_B
+B102,Classroom,125,building_B
+B103,Classroom,135,building_B
+B104,Classroom,140,building_B
+B105,Classroom,145,building_B
+B106,Classroom,138,building_B
+B107,Classroom,132,building_B
+B108,Classroom,136,building_B
+B109,Classroom,140,building_B
+B110,Classroom,142,building_B
+B111,Computer Lab,290,building_B
+B112,Computer Lab,300,building_B
+B113,Computer Lab,310,building_B
+B114,Computer Lab,320,building_B
+B115,Computer Lab,330,building_B
+B116,Computer Lab,340,building_B
+B117,Computer Lab,350,building_B
+C101,Classroom,110,building_C
+C102,Classroom,118,building_C
+C103,Classroom,125,building_C
+C104,Classroom,130,building_C
+C105,Classroom,138,building_C
+C106,Classroom,140,building_C
+C107,Classroom,135,building_C
+C108,Classroom,142,building_C
+C109,Classroom,145,building_C
+C110,Classroom,148,building_C
+C111,Computer Lab,310,building_C
+C112,Computer Lab,320,building_C
+C113,Computer Lab,330,building_C
+C114,Computer Lab,340,building_C
+C115,Computer Lab,350,building_C
+C116,Computer Lab,360,building_C
+C117,Computer Lab,370,building_C
